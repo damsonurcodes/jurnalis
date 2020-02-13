@@ -1,1 +1,2 @@
-# jurnalis
+# kekerasan-jurnalis-mentah
+ cek cek

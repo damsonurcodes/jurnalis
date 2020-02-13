@@ -1,0 +1,75 @@
+@media only screen and (max-width:550px){
+	.hide-desktop {display:block}
+	header img.logo {width: 30%;}
+    .content {padding: 0 5%;}
+    .letter-container {padding: 10vh 0;}
+    .letter-content {padding: 0 10px}
+	.letter-teks {background-color:#fff;padding: 20px;}
+	.images-container {width: 100%;}
+	.letter-content p {color:#000}
+	.header-title h1 {font-size: 25pt;}
+	.header-bottom {flex-direction: column;}
+	.header-bottom h3 {width: 100%;}
+	.header-bottom ul {width: 100%;padding: 0;}
+	.header-bottom ul li{flex-basis: 100%;margin: 10pt auto;}
+	.video-container {height: 50vh;padding: 5vh 0 !important;}
+	.video-container iframe {height: 40vh;top:5vh;width: 100%}
+	figcaption.video{width: 90%}
+	#right-content-trigger figcaption{padding: 0 5%}
+	p.soundcite-text{background-color: #fff}
+
+    footer .footer-wrapper {padding: 0;}
+    footer .footer-wrapper .conde-links{display: grid;grid-template-columns: auto; grid-gap: 10px;padding: 0 25pt; justify-content: center; text-align: center;}
+	footer .conde-links .worldwide {width: 250px;margin: 0 auto;}
+	footer .component-corp-legal>div {margin-top: 10px;display: block;text-align: center;}
+	.social-media {position: unset;padding-bottom: 10pt;}
+
+	.right-content{width: calc(100% - 40.5pt);background-color: #ededed;border-left: 1px solid black;display: block;}
+	#right-content-trigger{padding:0}
+}
+@media (min-width: 700px){
+	footer .footer-wrapper {max-width: 90%;padding: 0;}
+	.component-corp-legal {margin-top: 30px;padding-top: 35px;}
+}
+@media (min-width: 550px){
+	footer .footer-wrapper .conde-links {display: -webkit-box;display: -ms-flexbox;display: flex;}
+	footer .component-corp-legal {margin-top: 50px;border-top: 1px solid #666;font-size: 13px;line-height: 18px;}
+	footer .component-corp-legal>div {margin-top: 10px;}
+	footer .component-corp-legal>div .conde-logo {margin: 0 40px 0 0;width: auto;}
+}
+@media (max-width: 1024px) and (min-width: 801px){
+	
+	.header-title h1 {padding: 0;}
+	.header-title img.logo {padding:2vh 0}
+	.video-container {height: 50vh;padding: 5vh;}
+	.video-container iframe {height: 40vh;}
+}
+@media (max-width: 800px){
+	.video-container {height: 50vh;padding: 5vh;}
+	.video-container iframe {height: 40vh;}
+	.content {padding: 0 10%;}
+}
+
+@media (max-width: 530px){
+#wordsemanggi{font-size: 40px;transform: translate(-45px,49px) !important;}
+#wordtrisakti{font-size: 36px;transform: translate(-45px,120px) !important;}
+#wordtalangsari{font-size: 28px;transform: translate(-150px,-5px) !important;}
+#wordmunir{font-size: 25px;transform: translate(-100px,160px) !important;}
+#wordpriok{font-size: 24px;transform: translate(-20px,-80px) !important;}
+#word13-15{font-size: 20px;transform: translate(-100px,-50px) !important;}
+#wordkorupsi{font-size: 18px;transform: translate(0px,-16px) !important;}
+#wordpenculik{font-size: 14px;}
+#wordkendeng{font-size: 12px;transform: translate(-175px,-83px) !important;}
+}
+
+@media (max-width: 350px){
+#wordsemanggi{font-size: 40px;transform: translate(-100px,49px) !important;}
+#wordtrisakti{font-size: 36px;}
+#wordtalangsari{font-size: 28px;transform: translate(-150px,-5px) !important;}
+#wordmunir{font-size: 25px;transform: translate(-170px,160px) !important;}
+#wordpriok{font-size: 24px;transform: translate(-55px,-90px) !important;}
+#word13-15{font-size: 20px;}
+#wordkorupsi{font-size: 18px;transform: translate(-20px,-16px) !important;}
+#wordpenculik{font-size: 14px;}
+#wordkendeng{font-size: 12px;}
+}
