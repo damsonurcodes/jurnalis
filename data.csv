@@ -1,295 +1,314 @@
-id,year,date,location,latitude,longitude,estnum,cx,cy
-0,2016,01 April 2016,Jawa Barat,-6.927411,107.619869,1,50,34
-1,2016,01 Juli 2016,NTT,-8.60619,120.979246,1,50,35
-2,2016,01 Desember 2016,DKI Jakarta,-6.175328,106.827142,1,50,36
-3,2016,23 Januari 2016,Karawang,-6.274288,107.396635,1,50,37
-4,2016,26 Januari 2016,Karawang,-6.274288,107.396635,1,50,38
-5,2016,02 November 2016,Malang,-7.982407,112.630672,1,50,39
-6,2016,08 November 2016,DKI Jakarta,-6.175328,106.827142,1,50,40
-7,2016,19 Februari 2016,Riau,0.513255,101.44262,1,50,41
-8,2016,20 Februari 2016,Sumatera Selatan,-2.987661,104.750654,1,50,42
-9,2016,22 Februari 2016,Palu,-0.898626,119.924574,1,50,43
-10,2016,03 Februari 2016,Makassar,-5.147037,119.43008,1,50,44
-11,2016,03 Juli 2016,DKI Jakarta,-6.175328,106.827142,1,50,45
-12,2016,03 Juli 2016,DKI Jakarta,-6.175328,106.827142,1,50,46
-13,2016,16 Maret 2016,Lampung,-4.687979,105.006493,1,50,47
-14,2016,20 Maret 2016,NTT,-8.60619,120.979246,1,50,48
-15,2016,28 Maret 2016,Jawa tengah,-6.988945,110.431481,1,50,49
-16,2016,30 Maret 2016,NTT,-8.60619,120.979246,1,50,50
-17,2016,24 Maret 2016,Sumatera Selatan,-2.987661,104.750654,1,50,51
-18,2016,04 Oktober 2016,Sulawesi Utara,1.137102,124.746667,1,50,52
-19,2016,23 April 2016,Jawa Barat,-6.937411,107.629869,1,50,53
-20,2016,24 April 2016,Jawa Barat,-6.827411,107.639869,1,50,54
-21,2016,25 April 2016,Papua,-3.917005,138.581769,1,50,55
-22,2016,27 April 2016,DKI Jakarta,-6.175328,106.827142,1,50,56
-23,2016,29 April 2016,Jawa Barat,-6.926411,108.619869,1,50,57
-24,2016,04 Mei 2016,DI Yogyakarta,-7.801548,110.371239,1,50,58
-25,2016,14 Mei 2016,Sulawesi Utara,1.137102,124.746667,1,50,59
-26,2016,16 Mei 2016,Bali,-8.355165,115.183934,1,50,60
-27,2016,03 Mei 2016,Papua Barat,-3.917005,138.581769,1,50,61
-28,2016,19 Mei 2016,Jawa Tengah,-6.988945,110.431481,1,50,62
-29,2016,17 Mei 2016,Jawa Timur,-7.652426,112.285126,1,50,63
-30,2016,14 Mei 2016,Jawa Timur,-7.652426,112.285126,1,50,64
-31,2016,12 Mei 2016,Sulawesi Selatan,-3.848419,119.962695,1,50,65
-32,2016,12 Mei 2016,Sumatera Utara,2.499579,2.499579,1,50,66
-33,2016,03 Juni 2016,DKI Jakarta,-6.175328,106.827142,1,50,67
-34,2016,01 Juni 2016,Sulawesi Tengah,-1.571247,120.503325,1,50,68
-35,2016,09 Juni 2016,Papua,-3.917005,138.581769,1,50,69
-36,2016,16 Juni 2016,DKI Jakarta,-6.175328,106.827142,1,50,70
-37,2016,18 Juni 2016,Jawa Tengah,-6.988945,110.431481,1,50,71
-38,2016,15 Juli 2016,Sumatera Barat,-0.544589,100.845138,1,50,72
-39,2016,16 Juli 2016,Jawa Barat,-7.927411,105.619869,1,50,73
-40,2016,29 Juli 2016,Jawa Barat,-6.127411,107.219869,1,50,74
-41,2016,17 Juli 2016,Jawa Barat,-6.977411,109.619869,1,200,34
-42,2016,20 Juli 2016,Jawa Timur,-7.652426,112.285126,1,200,35
-43,2016,30 Juni 2016,Jawa Barat,-4.927411,107.659869,1,200,36
-44,2016,30 Juni 2016,Sumatera Barat,-0.544589,100.845138,1,200,37
-45,2016,15 Agustus 2016,Sumatera Utara,2.499579,2.499579,1,200,38
-46,2016,15 Agustus 2016,Sumatera Utara,2.499579,2.499579,1,200,39
-47,2016,22 Agustus 2016,Jawa Barat,-6.107411,103.619869,1,200,40
-48,2016,09 Agustus 2016,Kalimantan Selatan,-2.720365,115.380975,1,200,41
-49,2016,30 Agustus 2016,Banten,-6.418479,106.140294,1,200,42
-50,2016,01 September 2016,Sulawesi Selatan,-3.848419,119.962695,1,200,43
-51,2016,02 September 2016,DKI Jakarta,-6.175328,106.827142,1,200,44
-52,2016,20 September 2016,jJawa Timur,-7.652426,112.285126,1,200,45
-53,2016,20 September 2016,Jawa Barat,-6.923411,107.615869,1,200,46
-54,2016,29 September 2016,Jawa Barat,-6.927511,107.613869,1,200,47
-55,2016,19 September 2016,Sumatera Utara,2.499579,2.499579,1,200,48
-56,2016,20 September 2016,Aceh,4.486972,96.864624,1,200,49
-57,2016,02 Oktober 2016,Jawa Timur,-7.652426,112.285126,1,200,50
-58,2016,07 Oktober 2016,Sumatera Selatan,-2.987661,104.750654,1,200,51
-59,2016,07 Oktober 2016,DKI Jakarta,-6.175328,106.827142,1,200,52
-60,2016,21 Oktober 2016,Papua Barat,-3.917005,138.581769,1,200,53
-61,2016,21 Oktober 2016,Lampung,-4.687979,105.006493,1,200,54
-62,2016,27 Oktober 2016,Sulawesi Selatan,-3.848419,119.962695,1,200,55
-63,2016,27 Oktober 2016,NTB,-8.772558,117.374274,1,200,56
-64,2016,28 Oktober 2016,"Jawa Barat, Tangerang Selatan",-6.299252,106.713116,1,200,57
-65,2016,02 Oktober 2016,DKI Jakarta,-6.175328,106.827142,1,200,58
-66,2016,02 Oktober 2016,Jambi,-1.623133,103.602659,1,200,59
-67,2016,04 November 2016,Sulawesi Selatan,-3.848419,119.962695,1,200,60
-68,2016,04 November 2016,Sumatera Utara,2.499579,2.499579,1,200,61
-69,2016,04 November 2016,DKI Jakarta,-6.175328,106.827142,1,200,62
-70,2016,11 November 2016,jJawa Timur,-7.652426,112.285126,1,200,63
-71,2016,26 November 2016,Sulawesi Selatan,-3.848419,119.962695,1,200,64
-72,2016,27 November 2016,Banten,-6.418479,106.140294,1,200,65
-73,2016,28 November 2016,Bali,-8.355165,115.183934,1,200,66
-74,2016,28 November 2016,Jawa Timur,-7.652426,112.285126,1,200,67
-75,2016,01 Desember 2016,DKI Jakarta,-6.175328,106.827142,1,200,68
-76,2016,02 Desember 2016,Sumatera Utara,2.499579,2.499579,1,200,69
-77,2016,02 Desember 2016,DKI Jakarta,-6.175328,106.827142,1,200,70
-78,2016,02 Desember 2018,DKI Jakarta,-6.175328,106.827142,1,200,71
-79,2016,02 Desember 2016,DKI Jakarta,-6.175328,106.827142,1,200,72
-80,2016,19 Desember 2016,Jambi,-1.623133,103.602659,1,200,73
-81,2016,07 Desember 2016,Lampung,-4.687979,105.006493,1,200,74
-82,2016,19 Desember 2016,Papua,-3.917005,138.581769,1,140,75
-83,2017,05 Januari 2017,Balikpapan,-1.243249,116.849287,1,4250,34
-84,2017,07 Januari 2017,Kab. Bengkalis,1.324716,101.577547,1,4250,35
-85,2017,02 Februari 2017,Kab. Mamuju,-2.474788,119.363613,1,4250,36
-86,2017,06 Februari 2017,Kab. Sabussalam,-2.555562,119.245598,1,4250,37
-87,2017,10 Februari 2017,Jambi,-1.623133,103.602659,1,4250,38
-88,2017,10 Februari 2017,Jakarta,-6.175328,106.827142,1,4250,39
-89,2017,11 Februari 2017,Jakarta,-6.175328,106.827142,1,4250,40
-90,2017,11 Februari 2017,Toraja Utara,-2.889446,119.852825,1,4250,41
-91,2017,13 Februari 2017,Aceh,4.486972,96.864624,1,4250,42
-92,2017,14 Februari 2017,Makassar,-5.147037,119.43008,1,4250,43
-93,2017,15 Februari 2017,Jayapura,-2.58743,140.674845,1,4250,44
-94,2017,25 Februari 2017,Medan,3.582656,98.66742,1,4250,45
-95,2017,01 Maret 2017,Malang,-7.982407,112.630672,1,4250,46
-96,2017,13 Maret 2017,Ambon,-3.681467,128.206763,1,4250,47
-97,2017,24 Maret 2017,Padang,-0.908492,100.394003,1,4250,48
-98,2017,25 Maret 2017,Medan,3.582656,98.66742,1,4250,49
-99,2017,27 Maret 2017,"Muna, Sulawesi Tenggara",-4.899507,122.556579,1,4250,50
-100,2017,31 Maret 2017,Manado,1.485212,124.846958,1,4250,51
-101,2017,12 April 2017,Jakarta,-6.175328,106.827142,1,4250,52
-102,2017,18 April 2017,Kota Pekanbaru,0.513448,101.448726,1,4250,53
-103,2017,25 April 2017,Jakarta,-6.175328,106.827142,1,4250,54
-104,2017,26 April 2017,Kota Banda Aceh,4.486972,96.864624,1,4250,55
-105,2017,28 April 2017,"Papua, Jaya Wijaya",-4.349743,139.416581,1,4250,56
-106,2017,02 Mei 2017,Papua,-3.917005,138.581769,1,4250,57
-107,2017,02 Mei 2017,Kab. Mamasa,-2.960146,119.368206,1,4250,58
-108,2017,05 Mei 2017,Jakarta,-6.175328,106.827142,1,4250,59
-109,2017,08 Mei 2017,Kab. Manggarai Timur,-8.578024,120.695889,1,4250,60
-110,2017,11 Mei 2017,Palembang,-2.965252,104.763573,1,4250,61
-111,2017,12 Mei 2017,Palembang,-2.965252,104.763573,1,4250,62
-112,2017,17 Mei 2017,Kab. Jayapura,-2.58743,140.674845,1,4250,63
-113,2017,17 Mei 2017,Kab. Natuna,4.000085,108.249914,1,4250,64
-114,2017,23 Mei 2017,Kota Palu,-0.898626,119.924574,1,4400,34
-115,2017,23 Mei 2017,Kab. Mimika,-4.541453,136.775518,1,4400,35
-116,2017,24 Mei 2017,Kab. Bima,-8.460054,118.744768,1,4400,36
-117,2017,10 Juni 2017,Kab. sikka (Kupang),-10.173766,123.607508,1,4400,37
-118,2017,19 Juni 2017,Jakarta,-6.175328,106.827142,1,4400,38
-119,2017,30 Juni 2017,Kab. Nabire,-3.364023,135.510216,1,4400,39
-120,2017,02 Juli 2017,Kab. Rote-Ndao (NTT),-10.754261,123.121862,1,4400,40
-121,2017,20 Juli 2017,Kabupaten Pringsewu,-5.354125,104.957919,1,4400,41
-122,2017,24 Juli 2017,Makassar,-5.147037,119.43008,1,4400,42
-123,2017,04 Agustus 2017,NTT,-8.60619,120.979246,1,4400,43
-124,2017,28 Agustus 2017,Kab. Way Kanan (Lampung),-4.498653,104.534994,1,4400,44
-125,2017,30 Agustus 2017,Kota Medan,3.582656,98.66742,1,4400,45
-126,2017,01 September 2017,NTT,-8.60619,120.979246,1,4400,46
-127,2017,09 September 2017,Kab. Sumedang,-6.837063,107.925653,1,4400,47
-128,2017,10 September 2017,Tomohon,1.32249,124.840464,1,4400,48
-129,2017,10 September 2017,Kab. Banyumas,-7.407252,109.167146,1,4400,49
-130,2017,18 September 2017,Jakarta,-6.175328,106.827142,1,4400,50
-131,2017,20 September 2017,Jakarta,-6.175328,106.827142,1,4400,51
-132,2017,21 September 2017,"Serang, Banten",-6.418479,106.140294,1,4400,52
-133,2017,23 September 2017,Manado,1.485212,124.846958,1,4400,53
-134,2017,25 September 2017,Makassar,-5.147037,119.43008,1,4400,54
-135,2017,26 September 2017,Manado,1.485212,124.846958,1,4400,55
-136,2017,26 September 2017,Manado,1.485212,124.846958,1,4400,56
-137,2017,27 September 2017,Manado,1.485212,124.846958,1,4400,57
-138,2017,11 November 2017,Jawa Timur,-7.652426,112.285126,1,4400,58
-139,2017,11 November 2017,Kota Sorong,-0.880548,131.303531,1,4400,59
-140,2017,12 November 2017,Makassar,-5.147037,119.43008,1,4400,60
-141,2017,12 November 2017,"Papua, Timika",-4.546742,136.883935,1,4400,61
-142,2017,06 Desember 2017,Bandung,-6.902465,107.618805,1,4400,62
-143,2017,06 Desember 2017,Yogyakarta,-7.801548,110.371239,1,4400,63
-144,2017,07 Desember 2017,"Papua, Timika",-4.546742,136.883935,1,4400,64
-145,2017,07 Desember 2017,"Papua, timika",-4.546742,136.883935,1,4320,65
-146,2018,01 Mei 2018,Bau-Bau (Buton),-5.469021,122.595055,1,8450,34
-147,2018,01 November 2018,Denpasar (Badung),-8.657743,115.21706,1,8450,35
-148,2018,15 Januari 2018,Kota Langka (Medan),3.582656,98.66742,1,8450,36
-149,2018,21 Januari 2018,Bandung,-6.902465,107.618805,1,8450,37
-150,2018,22 Januari 2018,Bau-Bau (Buton),-5.469021,122.595055,1,8450,38
-151,2018,02 Januari 2018,Kab. Tulung Bawang (Lampung),-4.337608,105.53052,1,8450,39
-152,2018,02 Februari 2018,Kab. Asmat (Papua),-5.100026,138.618365,1,8450,40
-153,2018,02 Mei 2018,"Kab. Tana Toraja, Sulawesi Selatan",-3.113089,119.752396,1,8450,41
-154,2018,02 Juli 2018,"Bab. Pinrang, Sulawesi Selatan",-3.615853,119.629602,1,8450,42
-155,2018,02 Oktober 2018,Kab. Tulung Bawang (Lampung),-4.337608,105.53052,1,8450,43
-156,2018,02 Desember 2018,Makassar,-5.147037,119.43008,1,8450,44
-157,2018,02 Desember 2018,Kab. Jombang (Surabaya),-7.256542,112.750446,1,8450,45
-158,2018,14 Februari 2018,Kota Batam (Riau),1.074702,104.020101,1,8450,46
-159,2018,14 Februari 2018,Kab. Bogor,-6.598599,106.804935,1,8450,47
-160,2018,17 Februari 2018,Kab. Banyuwangi (Surabaya),-7.256542,112.750446,1,8450,48
-161,2018,21 Februari 2018,Banda Aceh,4.486972,96.864624,1,8450,49
-162,2018,21 Februari 2018,Kota Jambi,-1.623133,103.602659,1,8450,50
-163,2018,26 Februari 2018,Padang,-0.908492,100.394003,1,8450,51
-164,2018,06 Maret 2018,Palu,-0.898626,119.924574,1,8450,52
-165,2018,06 Maret 2018,Medan,3.582656,98.66742,1,8450,53
-166,2018,07 Maret 2018,Jakarta,-6.175328,106.827142,1,8450,54
-167,2018,15 Maret 2018,Kupang,-10.173766,123.607508,1,8450,55
-168,2018,07 Maret 2018,Jakarta,-6.175328,106.827142,1,8450,56
-169,2018,24 Maret 2018,Ambon,-3.681467,128.206763,1,8450,57
-170,2018,29 Maret 2018,Maluku Ambon,-3.681467,128.206763,1,8450,58
-171,2018,04 September 2018,Makassar,-5.147037,119.43008,1,8450,59
-172,2018,04 September 2018,Makassar,-5.147037,119.43008,1,8450,60
-173,2018,22 Maret 2018,Jakarta,-6.175328,106.827142,1,8450,61
-174,2018,23 Maret 2018,Jakarta,-6.175328,106.827142,1,8450,62
-175,2018,29 Maret 2018,Ambon,-3.681467,128.206763,1,8450,63
-176,2018,30 Maret 2018,Gowa,-5.343729,119.782986,1,8450,64
-177,2018,04 April 2018,Mataram,-8.587386,116.114736,1,8450,65
-178,2018,12 April 2018,Bandung,-6.919463,107.699116,1,8450,66
-179,2018,12 April 2018,Kab. Aceh Tengah,4.486972,96.864624,1,8450,67
-180,2018,20 April 2018,Kotabaru (Kalimantan),-0.059935,109.307392,1,8450,68
-181,2018,28 April 2018,Kab. Rembang (Semarang),-6.769833,111.452766,1,8600,34
-182,2018,05 Januari 2018,Padang,-0.908492,100.394003,1,8600,35
-183,2018,05 Juni 2018,Papua,-3.917005,138.581769,1,8600,36
-184,2018,17 Mei 2018,Mataram,-8.587386,116.114736,1,8600,37
-185,2018,31 Mei 2018,Bogor,-6.520727,106.575092,1,8600,38
-186,2018,06 Mei 2018,Papua,-3.917005,138.581769,1,8600,39
-187,2018,20 Juni 2018,Sidoarjo,-7.44792,112.697207,1,8600,40
-188,2018,23 Juni 2018,Palu,-0.898626,119.924574,1,8600,41
-189,2018,24 Juni 2018,Palu,-0.898626,119.924574,1,8600,42
-190,2018,28 Juni 2018,Jakarta,-6.175328,106.827142,1,8600,43
-191,2018,30 Juni 2018,Aceh,4.486972,96.864624,1,8600,44
-192,2018,30 Juni 2018,Makassar,-5.147037,119.43008,1,8600,45
-193,2018,07 Januari 2018,Makassar,-5.147037,119.43008,1,8600,46
-194,2018,07 April 2018,Jawa Timur,-7.652426,112.285126,1,8600,47
-195,2018,07 Mei 2018,Jember,-8.200297,113.605345,1,8600,48
-196,2018,07 September 2018,"Medan, Sumatera Utara",2.499579,2.499579,1,8600,49
-197,2018,07 Desember 2018,Jakarta,-6.175328,106.827142,1,8600,50
-198,2018,20 Juli 2018,Yogyakarta,-7.801548,110.371239,1,8600,51
-199,2018,21 Juli 2018,Semarang,-7.070723,110.414659,1,8600,52
-200,2018,27 Juli 2018,Banten,-6.418479,106.140294,1,8600,53
-201,2018,08 Maret 2018,Kota Jambi,-1.623133,103.602659,1,8600,54
-202,2018,08 April 2018,Pontianak,-0.026812,109.374806,1,8600,55
-203,2018,20 September 2018,Jakarta,-6.175328,106.827142,1,8600,56
-204,2018,13 Oktober 2018,Jakarta,-6.175328,106.827142,1,8600,57
-205,2018,23 Oktober 2018,Jakarta,-6.175328,106.827142,1,8600,58
-206,2018,24 Oktober 2018,Jakarta,-6.175328,106.827142,1,8600,59
-207,2018,11 Januari 2018,Madura,-7.050143,113.280761,1,8600,60
-208,2018,11 September 2018,Jakarta,-6.175328,106.827142,1,8600,61
-209,2018,11 Agustus 2018,Jakarta,-6.175328,106.827142,1,8600,62
-210,2018,11 November 2018,Ternate,0.80082,127.373769,1,8600,63
-211,2018,21 November 2018,Jakarta,-6.175328,106.827142,1,8600,64
-212,2018,27 November 2018,Medan,3.582656,98.66742,1,8600,65
-213,2018,27 November 2018,Jakarta,-6.175328,106.827142,1,8600,66
-214,2018,12 November 2018,Mataram,-8.587386,116.114736,1,8600,67
-215,2018,13 Desember 2018,Jakarta,-6.175328,106.827142,1,8600,68
-216,2018,19 Desember 2018,Banten,-6.418479,106.140294,1,8520,69
-217,2019,01 Juli 2019,"Surabaya, Jawa Timur",-7.256542,112.750446,1,12600,34
-218,2019,01 Desember 2019,"Pematangsiantar, Sumatera Uatara",2.958622,99.063578,1,12600,35
-219,2019,31 Januari 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,12600,36
-220,2019,22 Januari 2019,"Sumenep, Jawa Timur",-6.9408,113.845043,1,12600,37
-221,2019,02 November 2019,"Jakarta, DKI Jakarta",-6.175328,106.827142,1,12600,38
-222,2019,20 Februari 2019,"Kendari, Sulawesi Tenggara",-3.999089,122.514382,1,12600,39
-223,2019,20 Februari 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,12600,40
-224,2019,20 Februari 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,12600,41
-225,2019,13 Maret 2019,"Bireuen, Banda Aceh",4.486972,96.864624,1,12600,42
-226,2019,27 Maret 2019,"Jakarta, DKI Jakarta",-6.175328,106.827142,1,12600,43
-227,2019,04 April 2019,"Lampung, Bandar Lampung",-5.384576,105.263525,1,12600,44
-228,2019,04 Oktober 2019,"Surabaya, Jawa Timur",-7.256542,112.750446,1,12600,45
-229,2019,04 Oktober 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,12600,46
-230,2019,18 April 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,12600,47
-231,2019,24 April 2019,"Jakarta Timur, DKI Jakarta",-6.175328,106.827142,1,12600,48
-232,2019,27 April 2019,"Kabupaten Belu, Nusa Tenggara Timur",-9.103897,124.883942,1,12600,49
-233,2019,05 Januari 2019,"Bandung, Jawa Barat",-6.897411,107.691869,1,12600,50
-234,2019,21 Mei 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,12600,51
-235,2019,22 Mei 2019,"Jakarta Pusat dan Barat, DKI Jakarta",-6.175328,106.827142,1,12600,52
-236,2019,22 Mei 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,12600,53
-237,2019,24 Mei 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,12600,54
-238,2019,22 Mei 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,12600,55
-239,2019,22 Mei 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,12600,56
-240,2019,22 Mei 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,12600,57
-241,2019,06 Mei 2019,"Kabupaten Malaka, Nusa Tenggara Timur",-9.524841,124.89853,1,12600,58
-242,2019,20 Juni 2019,"Kabupaten Belu, Nusa Tenggara Timur",-9.203897,124.783942,1,12600,59
-243,2019,23 Juni 2019,"Kabupaten Belu, Nusa Tenggara Timur",-9.303897,124.983942,1,12600,60
-244,2019,27 Juni 2019,"Jakarta Selatan, DKI Jakarta",-6.175328,106.827142,1,12600,61
-245,2019,30 Juni 2019,"Jakarta Selatan, DKI Jakarta",-6.175328,106.827142,1,12600,62
-246,2019,17 Juli 2019,"Kabupaten Parigi Moutong, Sulawesi Tengah",-1.571247,120.503325,1,12600,63
-247,2019,19 Juli 2019,"Jakarta, DKI Jakarta",-6.175328,106.827142,1,12600,64
-248,2019,25 Juli 2019,Lhokseumawe. Banda Aceh,4.486972,96.864624,1,12600,65
-249,2019,30 Juli 2019,"Aceh Tenggara, Banda Aceh",4.486972,96.864624,1,12600,66
-250,2019,08 Januari 2019,"Makassar, Sulawesi Selatan",-5.147037,119.43008,1,12600,67
-251,2019,16 Agustus 2019,"Madiun, Jawa Timur",-7.628189,111.528051,1,12600,68
-252,2019,17 Agustus 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,12600,69
-253,2019,28 Agustus 2019,"Jember, Jawa Timur",-8.188063,113.65753,1,12600,70
-254,2019,27 Agustus 2019,"Sorong, Papua Barat",-0.882608,131.298725,1,12600,71
-255,2019,29 Agustus 2019,"Luwu Timur, Sulawesi Selatan",-2.441422,121.078603,1,12750,34
-256,2019,09 Mei 2019,"Papua, Papua",-3.917005,138.581769,1,12750,35
-257,2019,13 September 2019,"Jakarta Selatan, DKI Jakarta",-6.175328,106.827142,1,12750,36
-258,2019,13 September 2019,"Jakarta Selatan, DKI Jakarta",-6.175328,106.827142,1,12750,37
-259,2019,14 September 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,12750,38
-260,2019,24 September 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,12750,39
-261,2019,24 September 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,12750,40
-262,2019,24 September 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,12750,41
-263,2019,24 September 2019,"Makassar, Sulawesi Selatan",-5.147037,119.43008,1,12750,42
-264,2019,24 September 2019,"Makassar, Sulawesi Selatan",-5.147037,119.43008,1,12750,43
-265,2019,24 September 2019,"Makassar, Sulawesi Selatan",-5.147037,119.43008,1,12750,44
-266,2019,24 September 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,12750,45
-267,2019,24 September 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,12750,46
-268,2019,24 September 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,12750,47
-269,2019,25 September 2019,"Palu, Sulawesi Tengah",-0.898626,119.924574,1,12750,48
-270,2019,23 September 2019,"Jayapura, Papua",-2.58743,140.674845,1,12750,49
-271,2019,22 Agustus 2019,"Jayapura, Papua",-2.58743,140.674845,1,12750,50
-272,2019,27 September 2019,"Makassar, Sulawesi Selatan",-2.58743,140.674845,1,12750,51
-273,2019,28 September 2019,"Makassar, Sulawesi Selatan",-2.58743,140.674845,1,12750,52
-274,2019,30 September 2019,"Jakarta Pusat, DKI Jakarta",-2.58743,140.674845,1,12750,53
-275,2019,30 September 2019,"Jakarta Pusat, DKI Jakarta",-2.58743,140.674845,1,12750,54
-276,2019,21 Oktober 2019,"Yogyakarta, Yogyakarta",-2.58743,140.674845,1,12750,55
-277,2019,21 Oktober 2019,"Yogyakarta, Yogyakarta",-2.58743,140.674845,1,12750,56
-278,2019,23 Oktober 2019,"Kendari, Sulawesi Tenggara",-3.957989,122.492066,1,12750,57
-279,2019,22 Oktober 2019,"Kendari, Sulawesi Tenggara",-3.981622,122.482796,1,12750,58
-280,2019,22 Oktober 2019,"Kendari, Sulawesi Tenggara",-4.009706,122.518502,1,12750,59
-281,2019,22 Oktober 2019,"Kendari, Sulawesi Tenggara",-4.02272,122.551118,1,12750,60
-282,2019,22 Oktober 2019,"Kendari, Sulawesi Tenggara",-3.961757,122.565537,1,12750,61
-283,2019,22 Oktober 2019,"Kendari, Sulawesi Tenggara",-4.001144,122.58751,1,12750,62
-284,2019,22 Oktober 2019,"Kendari, Sulawesi Tenggara",-4.02546,122.47181,1,12750,63
-285,2019,11 Juni 2019,"Deliserdang, Sumatera Utara",2.499579,2.499579,1,12750,64
-286,2019,25 November 2019,"Banjarmasin, Kalimantan Selatan",-2.720365,115.380975,1,12750,65
-287,2019,11 Desember 2019,"Medan, Sumatera Utara",2.499579,2.499579,1,12750,66
-288,2019,12 April 2019,"Tangerang Selatan, Banten",-6.418479,106.140294,1,12750,67
-289,2019,12 Oktober 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,12750,68
-290,2019,18 Desember 2019,"Kabupaten Yahukimo, Papua",-4.506644,139.603529,1,12750,69
-291,2019,20 Desember 2019,"Pangkalpinang, Kep. Bangka Belitung",-2.080313,106.112286,1,12750,70
-292,2019,29 Desember 2019,"Pematangsiantar, Sumatera Uatara",2.993594,99.080401,1,12750,71
-293,2019,30 Desember 2019,"Jakarta Timur, DKI Jakarta",-6.175328,106.827142,1,12680,72
+id,year,date,location,latitude,longitude,estnum,cx,cy,platform,tindakan,korban
+1,2016,1-Apr-16,Jawa Barat,-6.927411,107.619869,1,850,-6,Harian Pelita,Penganiayaan,Guruh Permadi
+2,2016,01 Juli 2016,NTT,-8.60619,120.979246,1,850,-2,Sejumlah Media,Pelarangan Liputan dan ancaman teror,Sejumlah Jurnalis
+3,2016,01 Desember 2016,DKI Jakarta,-6.175328,106.827142,1,850,2,Metro TV,Penganiayaan,Dody Soebagio
+4,2016,23 Januari 2016,Karawang,-6.274288,107.396635,1,850,6,Harian Fakta,Ancaman/Teror,Heri Permana
+5,2016,26 Januari 2016,Karawang,-6.274288,107.396635,1,850,10,Berita.com,Pelecehan,Faisol Yuhri
+6,2016,2-Nov-16,Malang,-7.982407,112.630672,1,850,14,Radar Malang,"Perampasan Alat, Pelarangan Liputan, dan Intimidasi","Darmono, Nurlayla"
+7,2016,8-Nov-16,DKI Jakarta,-6.175328,106.827142,1,850,18,The Jakarta Post,Gugatan Hukum,"The Jakarta Post Digital, Nezar Patria, Anton Hermansyah"
+8,2016,19 Februari 2016,Riau,0.513255,101.44262,1,850,22,Sejumlah Media,Pelarangan Liputan,Sejumlah Jurnalis
+9,2016,20 Februari 2016,Sumatera Selatan,-2.987661,104.750654,1,850,26,Media Lokal,Penganiayaan,Franki Wijaya
+10,2016,22 Februari 2016,Palu,-0.898626,119.924574,1,850,30,"MNC Group, Net Tv",Pelecehan,"Ridwan Laparese, Rahman"
+11,2016,03 Februari 2016,Makassar,-5.147037,119.43008,1,850,34,Sejumlah Media,Ancaman/Teror,Sejumlah Jurnalis
+12,2016,03 Juli 2016,DKI Jakarta,-6.175328,106.827142,1,850,38,Harian Orbit,Pelarangan Liputan,Amri
+13,2016,03 Juli 2016,DKI Jakarta,-6.175328,106.827142,1,850,42,Sejumlah Media,Pengusiran,Sejumlah Jurnalis
+14,2016,16 Maret 2016,Lampung,-4.687979,105.006493,1,850,46,Sejumlah Media,Ancaman/Teror,"Iqbal,Rozi"
+15,2016,20 Maret 2016,NTT,-8.60619,120.979246,1,850,50,Suara Bute,"Penganiayaan,Ancaman/Teror",Sarko M.Bute
+16,2016,28 Maret 2016,Jawa tengah,-6.988945,110.431481,1,850,54,Sejumlah Media,Pelarangan Liputan,Sejumlah Jurnalis
+17,2016,30 Maret 2016,NTT,-8.60619,120.979246,1,850,58,Media Lokal,Pelarangan Liputan,Ansel Lake
+18,2016,24 Maret 2016,Sumatera Selatan,-2.987661,104.750654,1,850,62,Metro TV,Pelarangan Liputan,Sukun Aldino
+19,2016,04 Oktober 2016,Sulawesi Utara,1.137102,124.746667,1,850,66,Media Lokal,Penganiayaan,Ricky Papalangi
+20,2016,23-Apr-16,Jawa Barat,-6.937411,107.629869,1,850,70,Media Lokal,"Perampasan Alat, Pelarangan Liputan, dan Intimidasi",Bambang Prasetyo
+21,2016,24-Apr-16,Jawa Barat,-6.827411,107.639869,1,1350,-6,Inilah.com,"Pelarangan Liputan, Perampasan Alat",Ibenk
+22,2016,25-Apr-16,Papua,-3.917005,138.581769,1,1350,-2,Media Lokal,Pelarangan Liputan,Philemon Keiya
+23,2016,27-Apr-16,DKI Jakarta,-6.175328,106.827142,1,1350,2,Al Jazeera,Pelarangan Liputan,"Bobby, Syarina"
+24,2016,29-Apr-16,Jawa Barat,-6.926411,108.619869,1,1350,6,Media Lokal,Penganiayaan,"Ellvin Yoselvin, Novianto"
+25,2016,04 Mei 2016,DI Yogyakarta,-7.801548,110.371239,1,1350,10,"Organisasi Jurnalis, Aliansi Jurnalis Independen Yogyakarta",Pelarangan Liputan,AJI
+26,2016,14 Mei 2016,Sulawesi Utara,1.137102,124.746667,1,1350,14,Manado Post,"Penganiayaan, Penangkapan",Asnawi
+27,2016,16 Mei 2016,Bali,-8.355165,115.183934,1,1350,18,JTV,"Intimidasi, Pengusiran, Pelecehan",Dewi
+28,2016,03 Mei 2016,Papua Barat,-3.917005,138.581769,1,1350,22,Suara Papua,Penangkapan,Ardi Bayage
+29,2016,19 Mei 2016,Jawa Tengah,-6.988945,110.431481,1,1350,26,Tribun Jateng,Penganiayaan,Galih Permadi
+30,2016,17 Mei 2016,Jawa Timur,-7.652426,112.285126,1,1350,30,Radar Madura,Penganiayaan,Totok Iswanto dan Achmadi Yasiid
+31,2016,14 Mei 2016,Jawa Timur,-7.652426,112.285126,1,1350,34,Sejumlah Media,Pelarangan Liputan,Sejumlah Jurnalis
+32,2016,12 Mei 2016,Sulawesi Selatan,-3.848419,119.962695,1,1350,38,Kompas TV,Penganiayaan,Andri
+33,2016,12 Mei 2016,Sumatera Utara,2.499579,2.499579,1,1350,42,Harian Metro 24,"Ancaman/Teror, Pembakaran",Mehuli
+34,2016,03 Juni 2016,DKI Jakarta,-6.175328,106.827142,1,1350,46,Rappler,"Ancaman/Teror, Pelarangan liputan , dan Pengusiran",Febriana Firdaus
+35,2016,01 Juni 2016,Sulawesi Tengah,-1.571247,120.503325,1,1350,50,Pos Palu,"Ancaman/Teror, Pelarangan liputan , dan Pengusiran",Fadlin
+36,2016,09 Juni 2016,Papua,-3.917005,138.581769,1,1350,54,"TVRI,MNC","Ancaman/Teror, Pelarangan liputan , dan Pengusiran","Andika Wamafima, Gultom Rivando Nay"
+37,2016,16 Juni 2016,DKI Jakarta,-6.175328,106.827142,1,1350,58,Arah.com,Pelarangan Liputan,Helmi Shimi
+38,2016,18 Juni 2016,Jawa Tengah,-6.988945,110.431481,1,1350,62,"Suara Merdeka, Cakra TV, Pop FM, Radio CBFM Rembang, Jawa Pos",Pelarangan Liputan,"Djamal Abdul Garham, Sarman Wibowo, Diky, Heru Budi Santoso, Wisnu"
+39,2016,15 Juli 2016,Sumatera Barat,-0.544589,100.845138,1,1350,66,"Harian Singgalang, metro Andalas, HArian Rakyat Sumatera, Haluan, Investigasi",Ancaman/teror,"Syamspedarman, Jasriman, Hendri, Rifnaldi, Ryan Syair, Kamal Putra"
+40,2016,16 Juli 2016,Jawa Barat,-7.927411,105.619869,1,1350,70,Sejumlah Media,Pelarangan Liputan,Sekelompok Wartawan
+41,2016,29 Juli 2016,Jawa Barat,-6.127411,107.219869,1,1850,-6,Sejumlah Media,Pelarangan Liputan,Angga Purwanda dan 2 Jurnalis
+42,2016,17 Juli 2016,Jawa Barat,-6.977411,109.619869,1,1850,-2,Harian Perak,Penganiayaan,Septian Hnedrawan
+43,2016,20 Juli 2016,Jawa Timur,-7.652426,112.285126,1,1850,2,Media lokal,Ancaman teror,Adi Susanto
+44,2016,30 Juni 2016,Jawa Barat,-4.927411,107.659869,1,1850,6,Sinar Pagi,Pelarangan Liputan,BS
+45,2016,30 Juni 2016,Sumatera Barat,-0.544589,100.845138,1,1850,10,Sejumlah Media,Pelarangan Liputan,"Budi, Oki Anugrah, dan jurnalis lainnya"
+46,2016,15 Agustus 2016,Sumatera Utara,2.499579,2.499579,1,1850,14,Media Lokal,"Penganiyaan, Pelecehan Seksual",DE
+47,2016,15 Agustus 2016,Sumatera Utara,2.499579,2.499579,1,1850,18,"Tribun medan, MNC","Penganiayaan, Pelarangan Liputan","Array Argus, Andri Sarfin"
+48,2016,22 Agustus 2016,Jawa Barat,-6.107411,103.619869,1,1850,22,"harian Bogor, Trans Bogor",Pelarangan Peliputan,"Abdul Aziz, Dede Mulyana"
+49,2016,09 Agustus 2016,Kalimantan Selatan,-2.720365,115.380975,1,1850,26,Radar Banjarmasin,Penganiayaan,Zalyan
+50,2016,30 Agustus 2016,Banten,-6.418479,106.140294,1,1850,30,Media Lokal,"Penahanan, Pelarangan, Peliputan",Mastur
+51,2016,1-Sep-16,Sulawesi Selatan,-3.848419,119.962695,1,1850,34,"Ve Chanel, Go TV",Penganiayaan,Muhammad Imran dan Muchlis
+52,2016,2-Sep-16,DKI Jakarta,-6.175328,106.827142,1,1850,38,Jawa Pos,Penganiayaan,Imam Husein
+53,2016,20-Sep-16,jJawa Timur,-7.652426,112.285126,1,1850,42,Radar Madura,Penganiayaan,Ghinan Salman
+54,2016,20-Sep-16,Jawa Barat,-6.923411,107.615869,1,1850,46,Tribun Jabar,Ancaman/Teror,Zaenal Muttaqin
+55,2016,29-Sep-16,Jawa Barat,-6.927511,107.613869,1,1850,50,berimbang.com,Penganiayaan,Julie Effendi
+56,2016,19-Sep-16,Sumatera Utara,2.499579,2.499579,1,1850,54,New Tapanuli,Ancaman/Teror,Alfredo Sihombing
+57,2016,20-Sep-16,Aceh,4.486972,96.864624,1,1850,58,Media Lokal,Penganiayaan,Zulmalek
+58,2016,02 Oktober 2016,Jawa Timur,-7.652426,112.285126,1,1850,62,Net TV,"Penganiayaan, Pelarangan Liputan",Soni Misdanto
+59,2016,07 Oktober 2016,Sumatera Selatan,-2.987661,104.750654,1,1850,66,Musi Rawas Ekspres,Penganiayaan,Sudirman
+60,2016,07 Oktober 2016,DKI Jakarta,-6.175328,106.827142,1,1850,70,TV One,Penganiayaan,Saiful Anwar
+61,2016,21 Oktober 2016,Papua Barat,-3.917005,138.581769,1,2350,-6,RRI Sorong,Ancaman/Teror,Wahyudi
+62,2016,21 Oktober 2016,Lampung,-4.687979,105.006493,1,2350,-2,Surat kabar Lampung,"Penahanan, Pelarangan, Peliputan, Perampasan alat, dan intimidasi",Asrul
+63,2016,27 Oktober 2016,Sulawesi Selatan,-3.848419,119.962695,1,2350,2,Media Lokal,"Pelarangan Liputan, Penganiayaan, Intimidasi",Mustakim dan Latif
+64,2016,27 Oktober 2016,NTB,-8.772558,117.374274,1,2350,6,"Radar Dompu, Aktualita.info,RRI",pelarangan Liputan,Sejumlah Jurnalis
+65,2016,28 Oktober 2016,"Jawa Barat, Tangerang Selatan",-6.299252,106.713116,1,2350,10,Okezone,"Pelarangan Liputan, Pelecehan",Ahmad Baihaqi dan Miljan wahyudi
+66,2016,02 Oktober 2016,DKI Jakarta,-6.175328,106.827142,1,2350,14,KBR,Pelarangan Liputan,Wartawan KBR
+67,2016,02 Oktober 2016,Jambi,-1.623133,103.602659,1,2350,18,Jak TV,"Pelarangan Liputan, Perampasan Alat, Penganiayaan",Sobirin
+68,2016,4-Nov-16,Sulawesi Selatan,-3.848419,119.962695,1,2350,22,Berita Kota Makassar,Penganiayaan,Muhammad Syahidin
+69,2016,4-Nov-16,Sumatera Utara,2.499579,2.499579,1,2350,26,Metro TV,pelarangan Liputan,Jurnalis Metro TV
+70,2016,4-Nov-16,DKI Jakarta,-6.175328,106.827142,1,2350,30,Kompas TV,"Penganiayaan, Perampasan Alat, Intimidasi",Guntur
+71,2016,11-Nov-16,jJawa Timur,-7.652426,112.285126,1,2350,34,"merdeka.com, SBO TV, Jawa Pos, RTV","Penganiayaan, Perampasan Alat, intimidasi","M. Adriansyah, Sugiantoro, Diday Tenola, Hadi"
+72,2016,26-Nov-16,Sulawesi Selatan,-3.848419,119.962695,1,2350,38,LKBN Antara,"Pelarangan Liputan, Perampasan Alat, Intimidasi",Darwin
+73,2016,27-Nov-16,Banten,-6.418479,106.140294,1,2350,42,baraya TV,"pelarangan Peliputan, Perampasan Alat",Rangga Saputera
+74,2016,28-Nov-16,Bali,-8.355165,115.183934,1,2350,46,LKBN Antara,Ancaman/Teror,Komang Suparta
+75,2016,28-Nov-16,Jawa Timur,-7.652426,112.285126,1,2350,50,Times Indonesia,Pelarangan Liputan,Ahmad S'udi
+76,2016,01 Desember 2016,DKI Jakarta,-6.175328,106.827142,1,2350,54,Tirto.id,"penganiayaan, pelarangan liputan",Reja Hidayat
+77,2016,02 Desember 2016,Sumatera Utara,2.499579,2.499579,1,2350,58,Sejumlah Media,Pelarangan Liputan,Sejumlah Jurnalis
+78,2016,02 Desember 2016,DKI Jakarta,-6.175328,106.827142,1,2350,62,Metro TV,Intimidasi,Rifai Pamone
+79,2016,02 Desember 2018,DKI Jakarta,-6.175328,106.827142,1,2350,66,Metro TV,intimidasi,Shinta dan Aftian
+80,2016,02 Desember 2016,DKI Jakarta,-6.175328,106.827142,1,2350,70,RCTI,"perampasan Alat, Pelarangan liputan, dan Intimidasi",Wara
+81,2016,19 Desember 2016,Jambi,-1.623133,103.602659,1,1080,74,Jambi Independent,"Penahanan, Perampasan, Intimidasi",Rizal dan Edi Junaedi
+82,2016,07 Desember 2016,Lampung,-4.687979,105.006493,1,1580,74,Harian Radar Lampung,Penganiayaan,Wartawan Harian Radar Lampung
+83,2016,19 Desember 2016,Papua,-3.917005,138.581769,1,2080,74,Majalah Asasi,"Penahanan, Penganiayaan",Wens tebay
+84,2017,05 Januari 2017,Balikpapan,-1.243249,116.849287,1,4350,-6,MNC,Kekerasan Fisik,Mukmin Aziz
+85,2017,07 Januari 2017,Kab. Bengkalis,1.324716,101.577547,1,4350,-2,HB,Pemindanaan/Kriminalisasi,Wartawan HB
+86,2017,02 Februari 2017,Kab. Mamuju,-2.474788,119.363613,1,4350,2,Manakarra TV,kekerasan fisik dan intimidasi,Jurnalis Manakarra TV
+87,2017,06 Februari 2017,Kab. Sabussalam,-2.555562,119.245598,1,4350,6,Jurnal Indonesia,Kekerasan Fisik,Wartawan Mingguan
+88,2017,10 Februari 2017,Jambi,-1.623133,103.602659,1,4350,10,N/A,kekerasan fisik dan intimidasi,Jurnalis Jek TV
+89,2017,10 Februari 2017,Jakarta,-6.175328,106.827142,1,4350,14,Kompas TV,Intimidasi,Mobil Media Kompas TV
+90,2017,11 Februari 2017,Jakarta,-6.175328,106.827142,1,4350,18,Metro TV dan Global TV,Kekerasan fisik dan intimidasi,2 Jurnalis Metro TV dan 1 Jurnalis Global TV
+91,2017,11 Februari 2017,Toraja Utara,-2.889446,119.852825,1,4350,22,PWI Toraja Utara,Intimidasi,Anggota PWI Toraja Utara
+92,2017,13 Februari 2017,Aceh,4.486972,96.864624,1,4350,26,N/A,Kekerasan verbal,Wartawan media online
+93,2017,14 Februari 2017,Makassar,-5.147037,119.43008,1,4350,30,Tribun Medan,Intimidasi,Jurnalis INews
+94,2017,15 Februari 2017,Jayapura,-2.58743,140.674845,1,4350,34,N/A,Intimidasi dan ancaman,Jurnalis RRI Jayapura
+95,2017,25 Februari 2017,Medan,3.582656,98.66742,1,4350,38,Harian Medan Pos,Intimidasi,Wartawan Harian Medan Pos
+96,2017,01 Maret 2017,Malang,-7.982407,112.630672,1,4350,42,Radar Malang,Pengusiran/pelarangan liputan,Jurnalis jawa pos
+97,2017,13 Maret 2017,Ambon,-3.681467,128.206763,1,4350,46,N/A,Kekerasan fisik dan intimidasi,Wartawan Maluku Express
+98,2017,24 Maret 2017,Padang,-0.908492,100.394003,1,4350,50,"Trans7, Redaksi Sumbar, Nusantara News, Klik Positif, RTV",intimidasi,2 orang Jurnalis Trans 7 dan 1 orang jurnalis redaksisumber.com
+99,2017,25 Maret 2017,Medan,3.582656,98.66742,1,4850,-6,INews,Kekerasan fisik,Jurnalis iNews TV
+100,2017,27 Maret 2017,"Muna, Sulawesi Tenggara",-4.899507,122.556579,1,4850,-2,Kolaka pos,Kekerasan fisik,Jurnalis kolaka pos
+101,2017,31 Maret 2017,Manado,1.485212,124.846958,1,4850,2,N/A,Kekerasan fisik,Wartawan televisi
+102,2017,12-Apr-17,Jakarta,-6.175328,106.827142,1,4850,6,Net Tv,Kekerasan fisik,Wartawan Net TV
+103,2017,18-Apr-17,Kota Pekanbaru,0.513448,101.448726,1,4850,10,Satelit Riau,Kekerasan fisik,Wartawan Satelit Riau
+104,2017,25-Apr-17,Jakarta,-6.175328,106.827142,1,4850,14,tirto.id,Kekerasan Verbal,Pimpinan Redaksi Tirto.id
+105,2017,26-Apr-17,Kota Banda Aceh,4.486972,96.864624,1,4850,18,LKBN Antara,Pengusiran dan pelarangan peliputan,Wartawan Foto
+106,2017,28-Apr-17,"Papua, Jaya Wijaya",-4.349743,139.416581,1,4850,22,"Metro TV, Jaya TV, TVRI",Intimidasi,"Wartawan Metro TV, Jaya TV dan TVRI"
+107,2017,02 Mei 2017,Papua,-3.917005,138.581769,1,4850,26,Jubi,Kekerasan fisik,Wartawan Jubi
+108,2017,02 Mei 2017,Kab. Mamasa,-2.960146,119.368206,1,4850,30,Freelance,Kekerasan fisik,Anggota Aji Kota Mandar
+109,2017,05 Mei 2017,Jakarta,-6.175328,106.827142,1,4850,34,Media Swedia,Pengusiran/pelarangan peliputan,Jurnalis Swedia
+110,2017,08 Mei 2017,Kab. Manggarai Timur,-8.578024,120.695889,1,4850,38,Floreseditorial.com,Penyerangan kantor media massa,"Andre Kornasen, Gun Ndarung"
+111,2017,11 Mei 2017,Palembang,-2.965252,104.763573,1,4850,42,Tribun Sumsel,Pengrusakan alat dan penghapusan data liputan,Jurnalis media harian Tribun Sumsel
+112,2017,12 Mei 2017,Palembang,-2.965252,104.763573,1,4850,46,N/A,Intimidasi,Jurnalis Sindo
+113,2017,17 Mei 2017,Kab. Jayapura,-2.58743,140.674845,1,4850,50,N/A,Pengusiran/pelarangan liputan,Wartawan Jepang
+114,2017,17 Mei 2017,Kab. Natuna,4.000085,108.249914,1,5350,-6,Antara,Kekerasan Fisik,Wartawan Online
+115,2017,23 Mei 2017,Kota Palu,-0.898626,119.924574,1,5350,-2,Kaili Post,Kekerasan fisik,Wartawan kaili pos
+116,2017,23 Mei 2017,Kab. Mimika,-4.541453,136.775518,1,5350,2,"SKH Harian Papua, Radar Timika, Salam Papua",Pelarangan Peliputan,"Wartawan Harian Papua, Wartawan Radar Timika, Wartawan Salam Papua,"
+117,2017,24 Mei 2017,Kab. Bima,-8.460054,118.744768,1,5350,6,Harian Bima Ekspres dan Mingguan Suara Rakyat,Kekerasan fisik,Hermansyah dan Ibrahim
+118,2017,10 Juni 2017,Kab. sikka (Kupang),-10.173766,123.607508,1,5350,10,Pos Kupang,Pengusiran dan pelarangan liputan,Wartawan pos Kupang
+119,2017,19 Juni 2017,Jakarta,-6.175328,106.827142,1,5350,14,Antara,Kekerasan fisik,Wartawan Antara
+120,2017,30 Juni 2017,Kab. Nabire,-3.364023,135.510216,1,5350,18,Tabloid Jubi,Kekerasan fisik,Wartawan tabloidjubi.com dan koran jubi
+121,2017,02 Juli 2017,Kab. Rote-Ndao (NTT),-10.754261,123.121862,1,5350,22,Media online lokal,Kekerasan fisik,Bernadus Saduk (nama samaran)
+122,2017,20 Juli 2017,Kabupaten Pringsewu,-5.354125,104.957919,1,5350,26,Media Pringsewu,Ancaman Teror,Ahmad khotob
+123,2017,24 Juli 2017,Makassar,-5.147037,119.43008,1,5350,30,"Celebes TV, Sulselsatu.com",Kekerasan fisik,"Tetty (Celebes TV), Habib Rahdar (Sulselsatu.com)"
+124,2017,04 Agustus 2017,NTT,-8.60619,120.979246,1,5350,34,victorynews.id,Pengancaman dan intimidasi,Leksi Salukh (Victory News)
+125,2017,28 Agustus 2017,Kab. Way Kanan (Lampung),-4.498653,104.534994,1,5350,38,Radar TV,Pengusiran dan larangan peliputan,Wartawan Radar TV-Group Radar Lampung) dan Tabikpun.com
+126,2017,30 Agustus 2017,Kota Medan,3.582656,98.66742,1,5350,42,N/A,Kriminalisasi,Jurnalis Medanbisnissaiky.com
+127,2017,1-Sep-17,NTT,-8.60619,120.979246,1,5350,46,N/A,Kekerasan verbal,Wartawan fajartimor.com
+128,2017,9-Sep-17,Kab. Sumedang,-6.837063,107.925653,1,5350,50,ruber.id,Kekerasan fisik,Aam (Ruber.id)
+129,2017,10-Sep-17,Tomohon,1.32249,124.840464,1,5850,-6,N/A,Pelarangan meliput,Wartawan Zonautara.com
+130,2017,10-Sep-17,Kab. Banyumas,-7.407252,109.167146,1,5850,-2,Metro TV,Kekerasan fisik,Darbe Tyas (Metro TV)
+131,2017,18-Sep-17,Jakarta,-6.175328,106.827142,1,5850,2,LSM ICW,Kekerasan verbal,Narasumber Donal Fariz (ICW)
+132,2017,20-Sep-17,Jakarta,-6.175328,106.827142,1,5850,6,N/A,Kekerasan verbal,Wartawan Inilah.com
+133,2017,21-Sep-17,"Serang, Banten",-6.418479,106.140294,1,5850,10,Banten Pos,Kekerasan fisik,Panji Bahari Romadhon (Banten Pos)
+134,2017,23-Sep-17,Manado,1.485212,124.846958,1,5850,14,Manadosiana.com,Kekerasan fisik,Febry (manadosiana.com)
+135,2017,25-Sep-17,Makassar,-5.147037,119.43008,1,5850,18,"Kompas TV, Metro TV, Beritasatu","Pengusiran dan pelarangan liputan, ancaman kekerasan/teror","Media televisi kompas, Metro dan berita satu"
+136,2017,26-Sep-17,Manado,1.485212,124.846958,1,5850,22,N/A,Pelarangan liputan,Wartawan Manado
+137,2017,26-Sep-17,Manado,1.485212,124.846958,1,5850,26,Radio XX,Kekerasan fisik,Klif (Wartawan Radio)
+138,2017,27-Sep-17,Manado,1.485212,124.846958,1,5850,30,KBR 68 H,Perusakan alat/data hasil peliputan,Kifli (Jurnalis KBR 68 H)
+139,2017,11-Nov-17,Jawa Timur,-7.652426,112.285126,1,5850,34,Sejumlah media di Jawa Timur,Pengusiran/pelarangan peliputan,Komunitas Pers
+140,2017,11-Nov-17,Kota Sorong,-0.880548,131.303531,1,5850,38,Kompas TV,Tindakan kekerasan dan intimidasi,Flora Batlayeri (Kompas TV)
+141,2017,12-Nov-17,Makassar,-5.147037,119.43008,1,5850,42,N/A,Kriminalisasi,Suaracelebes.com dan Online24jam.com
+142,2017,12-Nov-17,"Papua, Timika",-4.546742,136.883935,1,5850,46,N/A,Penganiayaan,Jurnalis Oke zone
+143,2017,06 Desember 2017,Bandung,-6.902465,107.618805,1,5850,50,N/A,Kekerasan verbal,Wartawan bandung
+144,2017,06 Desember 2017,Yogyakarta,-7.801548,110.371239,1,4580,54,N/A,Kekerasan fisik,Jurnalis mahasiswa
+145,2017,07 Desember 2017,"Papua, Timika",-4.546742,136.883935,1,5090,54,N/A,Ancaman teror dan intimidasi,Wartawan OkeZone
+146,2017,07 Desember 2017,"Papua, timika",-4.546742,136.883935,1,5600,54,N/A,Ancaman teror dan intimidasi,Beberapa wartawan Timika
+147,2018,01 Mei 2018,Bau-Bau (Buton),-5.469021,122.595055,1,7950,-6,MNC Media,Pelarangan pemberitaan,Wartawan MNC
+148,2018,1-Nov-18,Denpasar (Badung),-8.657743,115.21706,1,7950,-2,"Reuters TV, Radar Bali",Penghapusan data/Pengrusakan alat,Jurnalis Reuters TV dan fotografer Radar Baki
+149,2018,15 Januari 2018,Kota Langka (Medan),3.582656,98.66742,1,7950,2,Tamiang News,Kriminalisasi,Jurnalis Tamiang News
+150,2018,21 Januari 2018,Bandung,-6.902465,107.618805,1,7950,6,viva.co.id,Kekerasan,Jurnalis Viva.co.id
+151,2018,22 Januari 2018,Bau-Bau (Buton),-5.469021,122.595055,1,7950,10,kabarbuton.com,Intimidasi,Jurnalis kabarButon.com
+152,2018,02 Januari 2018,Kab. Tulung Bawang (Lampung),-4.337608,105.53052,1,7950,14,Difa TV,Kekerasan fisik,Wartawan Difa TV
+153,2018,02 Februari 2018,Kab. Asmat (Papua),-5.100026,138.618365,1,7950,18,BBC Indonesia,Kekerasan fisik,Jurnalis BBC indonesia
+154,2018,02 Mei 2018,"Kab. Tana Toraja, Sulawesi Selatan",-3.113089,119.752396,1,7950,22,N/A,Pengusiran/pelarangan peliputan,Jurnalis Online
+155,2018,02 Juli 2018,"Bab. Pinrang, Sulawesi Selatan",-3.615853,119.629602,1,7950,26,Jurnal Spernas,Kekerasan verbal,Jurnalis Tabloid Jurnal Spernas
+156,2018,02 Oktober 2018,Kab. Tulung Bawang (Lampung),-4.337608,105.53052,1,7950,30,jakartadaily.id,Ancaman Kekerasan/teror,Jurnalis Jakartadaily.id
+157,2018,02 Desember 2018,Makassar,-5.147037,119.43008,1,7950,34,pojoksulsel.com,Pengusiran/pelarangan peliputan,Wartawan Pojoksulsel.com
+158,2018,02 Desember 2018,Kab. Jombang (Surabaya),-7.256542,112.750446,1,7950,38,Transmedia,Kekerasan fisik,Jurnalis Transmedia Televisi
+159,2018,14 Februari 2018,Kota Batam (Riau),1.074702,104.020101,1,7950,42,Batam News,Kriminalisasi,Wartawan Batam News
+160,2018,14 Februari 2018,Kab. Bogor,-6.598599,106.804935,1,7950,46,Suara Indonesia News,Kekerasan Fisik,Wartawan suara Indonesia news
+161,2018,17 Februari 2018,Kab. Banyuwangi (Surabaya),-7.256542,112.750446,1,7950,50,BBS TV,Pengusiran/ pelarangan peliputan,Wartawan media televisi Surabaya BBS TV
+162,2018,21 Februari 2018,Banda Aceh,4.486972,96.864624,1,7950,54,N/A,Pengusiran/pelarangan peliputan,Wartawan online
+163,2018,21 Februari 2018,Kota Jambi,-1.623133,103.602659,1,7950,58,N/A,Perusakan alat/penghapusan hasil liputan,Wartawan online
+164,2018,26 Februari 2018,Padang,-0.908492,100.394003,1,8450,-6,Haluan&Singgalang,Pelarangan peliputan,Jurnalis Haluan dan  Singgalang
+165,2018,06 Maret 2018,Palu,-0.898626,119.924574,1,8450,-2,Radar Sulteng,Intimidasi/penghapusan data,Wartawan Radar Sulteng
+166,2018,06 Maret 2018,Medan,3.582656,98.66742,1,8450,2,Sorotdaerah.com,Kriminalisasi,Jurnalis Sorotdaerah.com
+167,2018,07 Maret 2018,Jakarta,-6.175328,106.827142,1,8450,6,Tirto.id,Kriminalisasi,Jurnalis Tirto.id
+168,2018,15 Maret 2018,Kupang,-10.173766,123.607508,1,8450,10,Victory News,Intimidasi,Jurnalis Victory News
+169,2018,07 Maret 2018,Jakarta,-6.175328,106.827142,1,8450,14,Tempo,Intimidasi,Pimpinan Redaksi Tempo
+170,2018,24 Maret 2018,Ambon,-3.681467,128.206763,1,8450,18,Spektrum,Kriminalisasi,Harian Spektrum
+171,2018,29 Maret 2018,Maluku Ambon,-3.681467,128.206763,1,8450,22,AJI,Kekerasan Fisik,Ketua AJI Ambon
+172,2018,4-Sep-18,Makassar,-5.147037,119.43008,1,8450,26,inikata.com,Kekerasan Fisik,Inikata.com
+173,2018,4-Sep-18,Makassar,-5.147037,119.43008,1,8450,30,N/A,Kekerasan Fisik,
+174,2018,22 Maret 2018,Jakarta,-6.175328,106.827142,1,8450,34,N/A,Intimidasi,Jurnalis
+175,2018,23 Maret 2018,Jakarta,-6.175328,106.827142,1,8450,38,N/A,Intimidasi,Jurnalis media online
+176,2018,29 Maret 2018,Ambon,-3.681467,128.206763,1,8450,42,Rakyat Maluku,Intimidasi,Jurnalis Rakyat Maluku
+177,2018,30 Maret 2018,Gowa,-5.343729,119.782986,1,8450,46,N/A,Kekerasan fisik,Wartawan Online gowa
+178,2018,4-Apr-18,Mataram,-8.587386,116.114736,1,8450,50,Suara NTB,Intimidasi,Jurnalis Suara NTB
+179,2018,12-Apr-18,Bandung,-6.919463,107.699116,1,8450,54,N/A,Kekerasan fisik,Pers Kampus
+180,2018,12-Apr-18,Kab. Aceh Tengah,4.486972,96.864624,1,8450,58,RRI,Kekerasan Verbal,Jurnalis RRI
+181,2018,20-Apr-18,Kotabaru (Kalimantan),-0.059935,109.307392,1,8950,-6,kemajuanrakyat.com,Kriminalisasi,Kemajuanrakyat.com
+182,2018,28-Apr-18,Kab. Rembang (Semarang),-6.769833,111.452766,1,8950,-2,Semarang TV,Kekerasan fisik,Semarang TV
+183,2018,05 Januari 2018,Padang,-0.908492,100.394003,1,8950,2,Harian Haluan,Kriminalisasi,Wartawan Harian Haluan
+184,2018,05 Juni 2018,Papua,-3.917005,138.581769,1,8950,6,Jubi,Kekerasan fisik,Jurnalis Jubi
+185,2018,17 Mei 2018,Mataram,-8.587386,116.114736,1,8950,10,liputan6.com,Pelarangan pemberitaan,Liputan6.com
+186,2018,31 Mei 2018,Bogor,-6.520727,106.575092,1,8950,14,Radar Bogor,kekerasan fisik,Jurnalis Radar Bogor
+187,2018,06 Mei 2018,Papua,-3.917005,138.581769,1,8950,18,Radar Papua,Kekerasan fisik,Jurnalis Radar Papua
+188,2018,20 Juni 2018,Sidoarjo,-7.44792,112.697207,1,8950,22,beritarakyat.co.id,Kriminalisasi,Slamet Maulana (beritarakyat.co.id)
+189,2018,23 Juni 2018,Palu,-0.898626,119.924574,1,8950,26,AJI,Kekerasan fisik,Ketua AJI Palu
+190,2018,24 Juni 2018,Palu,-0.898626,119.924574,1,8950,30,AJI,Kekerasan fisik,Ketua AJI Palu
+191,2018,28 Juni 2018,Jakarta,-6.175328,106.827142,1,8950,34,Tirto.id,Pelarangan peliputan,Jurnalis Tirto.id
+192,2018,30 Juni 2018,Aceh,4.486972,96.864624,1,8950,38,Tabloid Modus Aceh,Penyerangan kantor media massa,Kantor Tabloid Modus Aceh
+193,2018,30 Juni 2018,Makassar,-5.147037,119.43008,1,8950,42,Kompas,Pelarangan peliputan.,Jurnalis kompas
+194,2018,07 Januari 2018,Makassar,-5.147037,119.43008,1,8950,46,Metro TV,Kekerasan,jurnalis Metro TV
+195,2018,7-Apr-18,Jawa Timur,-7.652426,112.285126,1,8950,50,beritajatim.com,Kekerasan fisik,Beritajatim.com
+196,2018,07 Mei 2018,Jember,-8.200297,113.605345,1,8950,54,beritajatim.com,Kekerasan fisik,Jurnalis Beritajatim.com
+197,2018,7-Sep-18,"Medan, Sumatera Utara",2.499579,2.499579,1,8950,58,N/A,Teror /intimidasi,Media online
+198,2018,07 Desember 2018,Jakarta,-6.175328,106.827142,1,9450,-6,CNN,Intimidasi,"Gloria Safira Taylor, (Jurnalis CNN)"
+199,2018,20 Juli 2018,Yogyakarta,-7.801548,110.371239,1,9450,-2,The Jakarta Post Suara.com Media Indonesia merdeka.com,Pelarangan peliputan,"Bambang Muryanti (The Jakarta Post), Abdus Somad (Suara.com), Furqon Ulya Himawan (Media Indonesia) dan Cahyo Purnomo (merdeka.com)."
+200,2018,21 Juli 2018,Semarang,-7.070723,110.414659,1,9450,2,serat.id,Kriminalisasi,Zaki Amalia (serat.id)
+201,2018,27 Juli 2018,Banten,-6.418479,106.140294,1,9450,6,faktabanten.co.id,Kriminalisasi,Asep (faktabanten.co.id)
+202,2018,08 Maret 2018,Kota Jambi,-1.623133,103.602659,1,9450,10,Kompas TV Jambi,Kekerasan fisik,"Suci Annisa, (Jurnalis Kompas TV Jambi)"
+203,2018,8-Apr-18,Pontianak,-0.026812,109.374806,1,9450,14,iNews TV,Intimidasi,Ross Yulizar (jurnalis iNews TV)
+204,2018,20-Sep-18,Jakarta,-6.175328,106.827142,1,9450,18,Tempo,Kriminalisasi,Perusahaan media Tempo
+205,2018,13 Oktober 2018,Jakarta,-6.175328,106.827142,1,9450,22,detik.com,Intimidasi,Jurnalis detik.com
+206,2018,23 Oktober 2018,Jakarta,-6.175328,106.827142,1,9450,26,AJI,kriminalisasi,Ketua AJI Indonesia
+207,2018,24 Oktober 2018,Jakarta,-6.175328,106.827142,1,9450,30,AJI,Gugatan,Ketua AJI Indonesia/Indonesialeaks
+208,2018,11 Januari 2018,Madura,-7.050143,113.280761,1,9450,34,Jawa Pos Radar Madura,Pelarangan peliputan,Ali Hafidz (wartawan Jawa Pos Radar Madura)
+209,2018,11-Sep-18,Jakarta,-6.175328,106.827142,1,9450,38,Metro TV,Pengusiran/ pelarangan peliputan,Metro TV
+210,2018,11 Agustus 2018,Jakarta,-6.175328,106.827142,1,9450,42,detik.com,Intimidasi,Jurnalis detik.com
+211,2018,11-Nov-18,Ternate,0.80082,127.373769,1,9450,46,Maluku Utara Post,Kekerasan fisik,Maluku Utara Post
+212,2018,21-Nov-18,Jakarta,-6.175328,106.827142,1,9450,50,N/A,Kriminalisasi Narasumber,Narasumber
+213,2018,27-Nov-18,Medan,3.582656,98.66742,1,9450,54,N/A,Kriminalisasi,Jurnalis medan
+214,2018,27-Nov-18,Jakarta,-6.175328,106.827142,1,9450,58,Tirto.id,Ancaman verbal,Media Tirto.id dan Jurnalis Tirto.id
+215,2018,12-Nov-18,Mataram,-8.587386,116.114736,1,8180,62,Radar Lombok,Kekerasan Fisik,Jurnalis Radar Lombok
+216,2018,13 Desember 2018,Jakarta,-6.175328,106.827142,1,8690,62,"Kumparan
+Transmedia",Kekerasan fisik,Jurnalis kumparan dan Trasmedia
+217,2018,19 Desember 2018,Banten,-6.418479,106.140294,1,9180,62,RTV,Kekerasan Fisik,Jurnalis RTV
+218,2019,01 Juli 2019,"Surabaya, Jawa Timur",-7.256542,112.750446,1,11180,-6,Jawa Pos,Kriminalisasi,Jurnalis Jawa Pos
+219,2019,01 Desember 2019,"Pematangsiantar, Sumatera Uatara",2.958622,99.063578,1,11180,-2,N/A,Kekerasan fisik,Tri Aditya Jurnalis Online
+220,2019,31 Januari 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,11180,2,N/A,Kriminalisasi,Rocky Gerung 
+221,2019,22 Januari 2019,"Sumenep, Jawa Timur",-6.9408,113.845043,1,11180,6,Kompas TV,Pelarangan peliputan,Jurnalis Kompas TV
+222,2019,2-Nov-19,"Jakarta, DKI Jakarta",-6.175328,106.827142,1,11180,10,,Kriminalisasi Narasumber,Raka Ibrahim (Narasumber)
+223,2019,20 Februari 2019,"Kendari, Sulawesi Tenggara",-3.999089,122.514382,1,11180,14,detiksultra.com,Kriminalisasi,Fadli Aksar (detiksultra.com) dan Wiwid Abid Abadi
+224,2019,20 Februari 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,11180,18,detik.com,Kekerasan fisik dan penghapusan data,Satria Kusuma (wartawan detik.com)
+225,2019,20 Februari 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,11180,22,CNN Indonesia TV,Intimidasi dan penghapusan data,Endra Rizaldi (jurnalis CNN Indonesia TV)
+226,2019,13 Maret 2019,"Bireuen, Banda Aceh",4.486972,96.864624,1,11180,26,mediarealitas.com,Kriminalisasi,M. Reza alias Epong Reza (mediarealitas.com)
+227,2019,27 Maret 2019,"Jakarta, DKI Jakarta",-6.175328,106.827142,1,11180,30,viva.co.id,Kekerasan fisik,Foe Peace Simbolon (viva.co.id)
+228,2019,4-Apr-19,"Lampung, Bandar Lampung",-5.384576,105.263525,1,11180,34,Pers Mahassiwa Teknokra Unila,Kekerasan fisik,Alfany Pratama (jurnalis Pers Mahasiswa Teknokra Unila)
+229,2019,04 Oktober 2019,"Surabaya, Jawa Timur",-7.256542,112.750446,1,11180,38,"jatimnow.com
+Suara Surabaya Media",Intimidasi dan penghapusan data,Fajar Mujianto (wartawan jatimnow.com) dan Anggi Widay Permani (wartawan Suara Surabaya Media)
+230,2019,04 Oktober 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,11180,42,liputan6.com,Intimidasi secara online,Jurnalis liputan6.com
+231,2019,18-Apr-19,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,11180,46,Tempo,Intimidasi dan pengusiran,Imam Hamdi (jurnalis Tempo)
+232,2019,24-Apr-19,"Jakarta Timur, DKI Jakarta",-6.175328,106.827142,1,11180,50,N/A,Pengusiran,Jurnalis umum
+233,2019,27-Apr-19,"Kabupaten Belu, Nusa Tenggara Timur",-9.103897,124.883942,1,11180,54,timordaily.com,Pelarangan,Wartawan timordaily.com
+234,2019,05 Januari 2019,"Bandung, Jawa Barat",-6.897411,107.691869,1,11180,58,Tempo,Kekerasan fisik dan penghapusan data,Iqbal Kusumadireza (jurnalis freelance) dan Prima Mulia (fotografer Tempo)
+235,2019,21 Mei 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,11180,62,alinea.id,Kekerasan fisik dan pelarangan,Fadli Mubarok (jurnalis alinea.id)
+236,2019,22 Mei 2019,"Jakarta Pusat dan Barat, DKI Jakarta",-6.175328,106.827142,1,11180,66,CNN Indonesia TV,Kekerasan fisik dan penghapusan data,Budi Tanjung (jurnalis CNN Indonesia TV)
+237,2019,22 Mei 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,11680,-6,CNNIndonesia.com,Kekerasan fisik dan perampasan alat,Ryan hadi (CNNIndonesia.com)
+238,2019,24 Mei 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,11680,-2,iNews TV,Kekerasan fisik dan perampasan alat,Ryan (iNews TV)
+239,2019,22 Mei 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,11680,2,Radio Sindo Trijaya,Intimidasi,Fajar Yusuf Rasdianto (jurnalis Radio Sindo Trijaya)
+240,2019,22 Mei 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,11680,6,RTV,"Intimidasi, penghapusan data, dan perampasan",Intan Bedisa dan Rahajeng Mutiara (reporter dan kameramen RTV)
+241,2019,22 Mei 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,11680,10,iNews,Kekerasan fisik,Aji Fatahilah (jurnalis iNews)
+242,2019,06 Mei 2019,"Kabupaten Malaka, Nusa Tenggara Timur",-9.524841,124.89853,1,11680,14,N/A,Pengusiran,Saldy Berek
+243,2019,20 Juni 2019,"Kabupaten Belu, Nusa Tenggara Timur",-9.203897,124.783942,1,11680,18,N/A,Intimidasi,Mariano Parada
+244,2019,23 Juni 2019,"Kabupaten Belu, Nusa Tenggara Timur",-9.303897,124.983942,1,11680,22,N/A,Pelarangan,Marcel Manek
+245,2019,27 Juni 2019,"Jakarta Selatan, DKI Jakarta",-6.175328,106.827142,1,11680,26,N/A,Intimidasi,Jurnalis
+246,2019,30 Juni 2019,"Jakarta Selatan, DKI Jakarta",-6.175328,106.827142,1,11680,30,tirto.id,Cyber attack,Dieqy (jurnalis tirto.id) 
+247,2019,17 Juli 2019,"Kabupaten Parigi Moutong, Sulawesi Tengah",-1.571247,120.503325,1,11680,34,koranindigo.online,Kriminalisasi,Gencar Djarot (jurnalis koranindigo.online)
+248,2019,19 Juli 2019,"Jakarta, DKI Jakarta",-6.175328,106.827142,1,11680,38,TimesIndonesia,Kriminalisasi,Jurnalis TimesIndonesia
+249,2019,25 Juli 2019,Lhokseumawe. Banda Aceh,4.486972,96.864624,1,11680,42,Harian Waspada,Kriminalisasi,Zainuddin Abdullah (jurnalis Harian Waspada)
+250,2019,30 Juli 2019,"Aceh Tenggara, Banda Aceh",4.486972,96.864624,1,11680,46,,Pembakaran rumah/Pengrusakan,Asnawi Luwi
+251,2019,08 Januari 2019,"Makassar, Sulawesi Selatan",-5.147037,119.43008,1,11680,50,LPM UNM,Kekerasan fisik,Wahyuddin (reposter LPM UNM)
+252,2019,16 Agustus 2019,"Madiun, Jawa Timur",-7.628189,111.528051,1,11680,54,BBSTV,Kekerasan fisik dan perampasan alat,Wiwiet Eko Prasetyo (jurnalis BBSTV lokal)
+253,2019,17 Agustus 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,11680,58,"SCTV
+Vivanews
+Bisnis Indonesia
+Jawa Pos
+iNews TV",Kekerasan fisik dan penghapusan data,"1. Wartawan SCTV
+2. Wartawan Vivanews
+3. Wartawan Bisnis Indonesia
+4. Wartawan Jawa Pos
+5. iNews TV"
+254,2019,28 Agustus 2019,"Jember, Jawa Timur",-8.188063,113.65753,1,11680,62,N/A,Pelarangan peliputan,Jurnalis Jember
+255,2019,27 Agustus 2019,"Sorong, Papua Barat",-0.882608,131.298725,1,11680,66,N/A,Intimidasi,Jurnalis Papua
+256,2019,29 Agustus 2019,"Luwu Timur, Sulawesi Selatan",-2.441422,121.078603,1,12180,-6,Batarapos,Ancaman,Hasmin Sarif (jurnalis Batarapos)
+257,2019,09 Mei 2019,"Papua, Papua",-3.917005,138.581769,1,12180,-2,Aljazeera,Intimidasi online dan doxing (profiling),Febrina Firdaus (jurnalis Aljazeera)
+258,2019,13-Sep-19,"Jakarta Selatan, DKI Jakarta",-6.175328,106.827142,1,12180,2,N/A,Intimidasi dan perusakan alat,Wartawan
+259,2019,13-Sep-19,"Jakarta Selatan, DKI Jakarta",-6.175328,106.827142,1,12180,6,Beritasatu,Kekerasan fisik,Rio Comelianto (kameraman Beritasatu)
+260,2019,14-Sep-19,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,12180,10,katadata,Kekerasan fisik dan penghapusan data,Tri Kurnia (katadata)
+261,2019,24-Sep-19,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,12180,14,IDN Times,Intimidasi dan penghapusan data,Vanny El Rahman (wartawan IDN Times)
+262,2019,24-Sep-19,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,12180,18,Media Nasional INTV,Kekerasan fisik dan pengrusakan alat,Amelinda Zaneta (wartawan Media Nasional INTV)
+263,2019,24-Sep-19,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,12180,22,kompas.com,Penghapusan hasil liputan dan penghalangan,Nibras Nada Nailufar (reporter kompas.com)
+264,2019,24-Sep-19,"Makassar, Sulawesi Selatan",-5.147037,119.43008,1,12180,26,LKBN ANTARA,Penganiayaan fisik,"Muh, Darwin Fatir (wartawan LKBN ANTARA)"
+265,2019,24-Sep-19,"Makassar, Sulawesi Selatan",-5.147037,119.43008,1,12180,30,inikata.com,Penganiayaan fisik,Saiful Rania (inikata.com)
+266,2019,24-Sep-19,"Makassar, Sulawesi Selatan",-5.147037,119.43008,1,12180,34,makassartoday.com,Penganiayaan fisik,Isak Pasabuan (makassartoday.com)
+267,2019,24-Sep-19,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,12180,38,Narasi TV,Intimidasi dan penghapusan data,Harfin Naqsyabandi (reporter Narasi TV)
+268,2019,24-Sep-19,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,12180,42,Metro TV,Kekerasan fisik dan pengrusakan alat,Febrian Ahmad (reporter Metro TV)
+269,2019,24-Sep-19,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,12180,46,Narasi TV,Kekerasan fisik dan perampasan alat,Vany Fitria (reporter Narasi TV)
+270,2019,25-Sep-19,"Palu, Sulawesi Tengah",-0.898626,119.924574,1,12180,50,TVRI Sulawesi Tengah,Penghapusan hasil liputan,Rian Saputra (kamera jurnalis TVRI Sulawesi Tengah)
+271,2019,23-Sep-19,"Jayapura, Papua",-2.58743,140.674845,1,12180,54,"Suara Papua
+The Jakarta Post
+Jubi",Kekerasan fisik dan pelarangan,"Ardi Bayage (jurnalis Suara Papua)
+Benny Marvel (koresponden The Jakarta Post dan Jubi)
+Hengky Yeimo (jurnalis Jubi)"
+272,2019,22 Agustus 2019,"Jayapura, Papua",-2.58743,140.674845,1,12180,58,"Koran Jubi
+Jubi.co.id",Doxing (profiling) / Perundungan online,Victor Mambor (jurnalis Koran Jubi dan jubi.co.id)
+273,2019,27-Sep-19,"Makassar, Sulawesi Selatan",-2.58743,140.674845,1,12180,62,kabarmakassar.com,Kekerasan fisik,Erwin (jurnalis kabarmakassar.com)
+274,2019,28-Sep-19,"Makassar, Sulawesi Selatan",-2.58743,140.674845,1,12180,66,makassartoday.com,Kekerasan fisik,Rusdi (makassartoday.com)
+275,2019,30-Sep-19,"Jakarta Pusat, DKI Jakarta",-2.58743,140.674845,1,12680,-6,tirto.id,Kekerasan fisik,Haris Prabowo (jurnalis tirto.id)
+276,2019,30-Sep-19,"Jakarta Pusat, DKI Jakarta",-2.58743,140.674845,1,12680,-2,Koran Sinar Pagi,Kekerasan fisik dan penghapusan data,Haryawan (jurnalis Koran Sinar Pagi)
+277,2019,21 Oktober 2019,"Yogyakarta, Yogyakarta",-2.58743,140.674845,1,12680,2,Radar Jogja,Kekerasan fisik,Guntur Aga Putra (jurnalis Radar Jogja)
+278,2019,21 Oktober 2019,"Yogyakarta, Yogyakarta",-2.58743,140.674845,1,12680,6,Goal Indonesia,Intimidasi,Budu Cahyono (jurnalis Goal Indonesia)
+279,2019,23 Oktober 2019,"Kendari, Sulawesi Tenggara",-3.957989,122.492066,1,12680,10,Sultra TV,Intimidasi dan penghapusan data,Ancha (Sultra TV)
+280,2019,22 Oktober 2019,"Kendari, Sulawesi Tenggara",-3.981622,122.482796,1,12680,14,"KLBN Antara Sultra
+inikatasultra.com","Intimidasi, penghapusan data, dan terror",Muhammad Harianto (LKBN Antara Sultra) dan Ronald Fajar (inikatasultra.com)
+281,2019,22 Oktober 2019,"Kendari, Sulawesi Tenggara",-4.009706,122.518502,1,12680,18,inilahsultra.com,Intimidasi,Pandi (inilahsultra.com)
+282,2019,22 Oktober 2019,"Kendari, Sulawesi Tenggara",-4.02272,122.551118,1,12680,22,anoatimes.id,Intimidasi dan pelarangan,Jumdin (anoatimes.id)
+283,2019,22 Oktober 2019,"Kendari, Sulawesi Tenggara",-3.961757,122.565537,1,12680,26,iNews TV,Intimidasi,Mukhtaruddin (iNews TV)
+284,2019,22 Oktober 2019,"Kendari, Sulawesi Tenggara",-4.001144,122.58751,1,12680,30,Berita Kota Kendari,Pelarangan,Kasman (Berita Kota Kendari)
+285,2019,22 Oktober 2019,"Kendari, Sulawesi Tenggara",-4.02546,122.47181,1,12680,34,"Kendarinesia.id
+zonasultra.com",Intimidiasi,Wiwid Abid Abadi (Kendarinesia.id) dan Fadli Aksar (zonasultra.com)
+286,2019,11 Juni 2019,"Deliserdang, Sumatera Utara",2.499579,2.499579,1,12680,38,"metro24jam.com
+medanbicara.com",Kriminalisasi,Fani Ardana (metro24jam.com) dan Hulman Situmorang (medanbicara.com)
+287,2019,25-Nov-19,"Banjarmasin, Kalimantan Selatan",-2.720365,115.380975,1,12680,42,banjarhits.com,Kriminalisasi,Pimred banjarhits.com
+288,2019,11 Desember 2019,"Medan, Sumatera Utara",2.499579,2.499579,1,12680,46,Trubus,Kriminalisasi,Jurnalis Trubus
+289,2019,12-Apr-19,"Tangerang Selatan, Banten",-6.418479,106.140294,1,12680,50,kabar6.com,Kekerasan fisik dan penghapusan data,Jurnalis kabar6.com
+290,2019,12 Oktober 2019,"Jakarta Pusat, DKI Jakarta",-6.175328,106.827142,1,12680,54,IDN Times,Penghapusan data,Helmi Shemi (jurnalis IDN Times)
+291,2019,18 Desember 2019,"Kabupaten Yahukimo, Papua",-4.506644,139.603529,1,12680,58,Jubi Pinter Lokon,Kekerasan fisik dan perampasan alat,Jurnalis Jubi Pinter Lokon
+292,2019,20 Desember 2019,"Pangkalpinang, Kep. Bangka Belitung",-2.080313,106.112286,1,12680,62,"MNC Group
+Antara",Intimidasi dan ancaman kekerasan,Haryanto (MNC Group) dan Meryanti (Antara)
+293,2019,29 Desember 2019,"Pematangsiantar, Sumatera Uatara",2.993594,99.080401,1,12680,66,lintangnews.com,Kekerasan fisik,Irfan Nahampun (jurnalis lintangnews.com)
+294,2019,30 Desember 2019,"Jakarta Timur, DKI Jakarta",-6.175328,106.827142,1,11900,70,suara.com,Kekerasan fisik,Herwanto (jurnalis suara.com)
