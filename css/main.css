@@ -16,9 +16,9 @@ header img.logo {padding: 2vh 0;width: 15%;}
 .header-title {text-align: center;display: flex;flex-direction: column;justify-content: center;align-items: center;background-color: rgba(0,0,0,0.3);margin: 0;}
 .header-title h1 {font-family: 'MetaSerif-BookIta';color: #fff;font-size: 40pt;padding: 4vh 0;font-weight: 900;}
 .header-bottom {display: flex;padding: 10px 20px;margin: 0;}
-.header-bottom h3 {font-family: 'MetaSerif-BookIta';color: #fff;width: 40%;text-align: left;}
+.header-bottom h3 {font-family: 'MetaSerif-BookIta';color: #fff;width: 40%;text-align: left;font-weight: 100;}
 .header-bottom ul {color: #fff;display: flex;flex-flow: row wrap;width: 60%;margin: 0;list-style: none;}
-.header-bottom ul li {margin: 0 10px;flex-basis: calc(50% - 20px);}
+.header-bottom ul li {font-family: 'MetaSerif-BookIta';margin: 0 10px;flex-basis: calc(50% - 20px);}
 
 /* content */
 .content {padding: 0 25%;margin: 20pt auto;}
@@ -62,7 +62,7 @@ ul.tabs li.current{background: #9a9191;color: #ffffff;border: 0.5px solid #fffff
 .close:hover{cursor: pointer;background-color: #9a9191;}
 
 .soundcite-audio{margin:0;display: none;}
-.content img{width:100%}
+.content img, .content-other img{width:100%}
 /* right arrow */
 .arrow-right {padding:4pt 8pt; background-color: #000;color:#fff;text-decoration: none;float: right;margin-bottom: 20pt;}
 .hide-desktop {display:none}
@@ -175,7 +175,8 @@ ul.tabs li.current{background: #9a9191;color: #ffffff;border: 0.5px solid #fffff
   animation-name: slideout;
 }
 
-figcaption {font-size: 0.75rem}
+figcaption {font-size: 0.75rem;font-family: 'MetaSerif-BookIta';}
+.content-other{background-color: #000;color: #fff;padding:5vh 20%}
 figcaption.video {color: #fff;position: absolute;bottom: 5vh;width: 80%}
 p.soundcite-text{background-color: grey;padding: 0 10pt;width: fit-content;border-radius: 5px}
 div.d3-tooltip {color: black;position: absolute;top: 0;text-align: left;width: auto;height: auto;padding: 5px;font-family: Lato;font: 16px sans-serif ;background: #e9ebee;border: 0px;border-radius: 8px;pointer-events: none;max-width: 250px;}

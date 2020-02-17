@@ -1,7 +1,7 @@
 @media only screen and (max-width:550px){
 	.hide-desktop {display:block}
 	header img.logo {width: 30%;}
-    .chart-content, .content {padding: 0 5%;}
+    .content-other, .chart-content, .content {padding: 0 5%;}
     .letter-container {padding: 10vh 0;}
     .letter-content {padding: 0 10px}
 	.letter-teks {background-color:#fff;padding: 20px;}
@@ -48,7 +48,7 @@
 @media (max-width: 800px){
 	.video-container {height: 50vh;padding: 5vh;}
 	.video-container iframe {height: 40vh;}
-	.content {padding: 0 10%;}
+	.content-other, .content {padding: 0 10%;}
 }
 
 @media (max-width: 530px){
