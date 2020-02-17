@@ -1,24 +1,22 @@
 @media only screen and (max-width:550px){
 	.hide-desktop {display:block}
 	header img.logo {width: 30%;}
-    .content-other, .chart-content, .content {padding: 0 5%;}
+	.header-bottom, .content {padding: 0 5%;}
+	.content-other{padding: 5vh 1vh !important;}
     .letter-container {padding: 10vh 0;}
     .letter-content {padding: 0 10px}
 	.letter-teks {background-color:#fff;padding: 20px;}
 	.images-container {width: 100%;}
 	.letter-content p {color:#000}
 	.header-title h1 {font-size: 25pt;}
-	.header-bottom {flex-direction: column;}
-	.header-bottom h3 {width: 100%;}
-	.header-bottom ul {width: 100%;padding: 0;}
 	.header-bottom ul li{flex-basis: 100%;margin: 10pt auto;}
 	.video-container {height: 50vh;padding: 5vh 0 !important;}
 	.video-container iframe {height: 40vh;top:5vh;width: 100%}
 	figcaption.video{width: 90%}
 	#right-content-trigger figcaption{padding: 0 5%}
 	p.soundcite-text{background-color: #fff}
-	.chart-content{position: relative;}
-	div.d3-tooltip {max-width: unset;width: auto;top:90% !important;left: 0 !important;right: 0;}
+	.chart{position: relative;}
+	div.d3-tooltip {max-width: unset;width: auto;top:100% !important;left: 0 !important;right: 0;}
     footer .footer-wrapper {padding: 0;}
     footer .footer-wrapper .conde-links{display: grid;grid-template-columns: auto; grid-gap: 10px;padding: 0 25pt; justify-content: center; text-align: center;}
 	footer .conde-links .worldwide {width: 250px;margin: 0 auto;}
@@ -48,7 +46,8 @@
 @media (max-width: 800px){
 	.video-container {height: 50vh;padding: 5vh;}
 	.video-container iframe {height: 40vh;}
-	.content-other, .content {padding: 0 10%;}
+	.content-other {padding:2% 10%}
+	.content, .header-bottom {padding: 0 10%;}
 }
 
 @media (max-width: 530px){

@@ -5,7 +5,7 @@ var margin = {top: 10, right: 20, bottom: 30, left: 50},
     
   var svg = d3.select("#chart-container").append("svg").attr('x', 0).attr('y', 0).attr('viewBox', '0 0 960 960').attr('id', 'bar-chart')
   var timeline = svg.append("g").attr("class", "timeline").attr("transform","translate(0,385)")
-  var div = d3.select(".chart-content").append("div").attr("class", "d3-tooltip").style("opacity", 0);
+  var div = d3.select(".chart").append("div").attr("class", "d3-tooltip").style("opacity", 0);
   var txt2016 = svg.append("text").attr("class", "victim 16").attr("transform", "translate(105,110)").text('83').attr('fill','rgb(102, 194, 165)')
   var txt2017 = svg.append("text").attr("class", "victim 17").attr("transform", "translate(365,300)").text('63').attr('fill','rgb(252, 141, 98)')
   var txt2018 = svg.append("text").attr("class", "victim 18").attr("transform", "translate(630,225)").text('71').attr('fill','rgb(141, 160, 203)')
@@ -19,11 +19,11 @@ function getData() {
 
       var x = d3.scaleTime().domain(d3.extent(dataForChart.map(function(d) { return yearDate(d['year']); }))).range([0, 800]);
       var xAxis = d3.axisBottom(x).ticks(5)
-      timeline.append("g").attr("class", "x axis").attr("transform", "translate(115,530)").call(xAxis);
+      timeline.append("g").attr("class", "x axis").attr("transform", "translate(115,530)").style("fill", "none").style("stroke", '#FFF').call(xAxis);
 
       makeCircle(dataForChart)
   });
-  var ln = svg.append("line").attr("class", "x-axis-y").attr("transform","translate(0,400)").attr('x1', 40).attr('y1', 515).attr('x2', 960).attr('y2', 515).style("fill", "none").style("stroke", '#000').style("stroke-width", 2)
+  var ln = svg.append("line").attr("class", "x-axis-y").attr("transform","translate(0,400)").attr('x1', 40).attr('y1', 515).attr('x2', 960).attr('y2', 515).style("fill", "none").style("stroke", '#FFF').style("stroke-width", 5)
   var ln2016 = svg.append("line").attr("class", "2016").attr("transform","translate(0,400)").attr('x1', 0).attr('y1', -270).attr('x2', 960).attr('y2', -270).style("fill", "none").style("stroke", 'rgb(102, 194, 165)').style("stroke-width", 2).style("stroke-dasharray", ("3, 3"))
   var ln2017 = svg.append("line").attr("class", "2017").attr("transform","translate(0,400)").attr('x1', 0).attr('y1', -85).attr('x2', 960).attr('y2', -85).style("fill", "none").style("stroke", 'rgb(252, 141, 98)').style("stroke-width", 2).style("stroke-dasharray", ("3, 3"))
   var ln2018 = svg.append("line").attr("class", "2018").attr("transform","translate(0,400)").attr('x1', 0).attr('y1', -160).attr('x2', 960).attr('y2', -160).style("fill", "none").style("stroke", 'rgb(141, 160, 203)').style("stroke-width", 2).style("stroke-dasharray", ("3, 3"))
@@ -55,6 +55,7 @@ function makeCircle(dataForChart) {
     .scale(scaleY);
   svg.append("g")
     .attr("transform", "translate(40, 0)")
+    .style("fill", "#fff").style("stroke", '#FFF')
     .call(y_axis);
   var myColor = d3.scaleOrdinal()
     .domain(["2016", "2017", "2018", "2019"])

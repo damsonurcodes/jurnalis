@@ -15,10 +15,11 @@ header img.people {height: auto;width: 100%;}
 header img.logo {padding: 2vh 0;width: 15%;}
 .header-title {text-align: center;display: flex;flex-direction: column;justify-content: center;align-items: center;background-color: rgba(0,0,0,0.3);margin: 0;}
 .header-title h1 {font-family: 'MetaSerif-BookIta';color: #fff;font-size: 40pt;padding: 4vh 0;font-weight: 900;}
-.header-bottom {display: flex;padding: 10px 20px;margin: 0;}
-.header-bottom h3 {font-family: 'MetaSerif-BookIta';color: #fff;width: 40%;text-align: left;font-weight: 100;}
-.header-bottom ul {color: #fff;display: flex;flex-flow: row wrap;width: 60%;margin: 0;list-style: none;}
-.header-bottom ul li {font-family: 'MetaSerif-BookIta';margin: 0 10px;flex-basis: calc(50% - 20px);}
+.header-bottom {padding: 10px 25%;margin: 0;}
+.header-bottom h3 {font-family: 'MetaSerif-BookIta';color: #fff;text-align: left;font-weight: 100;}
+.header-bottom ul {color: #fff;display: flex;flex-flow: row wrap;margin: 0;list-style: none;padding: 0;padding-left: 25px;}
+.header-bottom ul li {font-family: 'MetaSerif-BookIta';margin:10px 0;}
+.header-bottom ul li:before {content: "\f0a9";font-family: FontAwesome;display: inline-block;margin-left: -1.3em;width: 1.3em;}
 
 /* content */
 .content {padding: 0 25%;margin: 20pt auto;}
@@ -27,8 +28,8 @@ header img.logo {padding: 2vh 0;width: 15%;}
 .text-foto p {font-size: 10pt;color:#fff;line-height: 18px;}
 
 /* video */
-.video-container {height: 90vh;background-color: #000000;padding: 5vh 10vh;display: flex;justify-content: center;align-items: center;position: relative;}
-.video-container iframe{width: 80%;height: 80%;position: absolute;}
+.video-container {height: 90vh;background-color: #000000;display: flex;justify-content: center;align-items: center;position: relative;}
+.video-container iframe{width: 60%;height: 80%;position: absolute;}
 /* letter */
 .images-container {width: 50%;left: 0;position: absolute;justify-content: center;display: flex;margin: 0;}
 
@@ -177,7 +178,7 @@ ul.tabs li.current{background: #9a9191;color: #ffffff;border: 0.5px solid #fffff
 
 figcaption {font-size: 0.75rem;font-family: 'MetaSerif-BookIta';}
 .content-other{background-color: #000;color: #fff;padding:5vh 20%}
-figcaption.video {color: #fff;position: absolute;bottom: 5vh;width: 80%}
+figcaption.video {color: #fff;position: absolute;bottom: 5vh;width: 60%}
 p.soundcite-text{background-color: grey;padding: 0 10pt;width: fit-content;border-radius: 5px}
 div.d3-tooltip {color: black;position: absolute;top: 0;text-align: left;width: auto;height: auto;padding: 5px;font-family: Lato;font: 16px sans-serif ;background: #e9ebee;border: 0px;border-radius: 8px;pointer-events: none;max-width: 250px;}
 .d3-tooltip .nama{background-color: #000;color: #fff;padding: 5px 10px;font-weight: bold;font-family: 'Montserrat', sans-serif;}
